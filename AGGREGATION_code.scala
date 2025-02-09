@@ -41,10 +41,10 @@ object obj {  // change your object name
 
 
 			val data = Seq(
-					("sai","10"),
-					("zeyo","5"),
-					("sai","5"),
-					("zeyo","20"),
+					("kishore","10"),
+					("Reddy","5"),
+					("Krishna","5"),
+					("Kittu","20"),
 					("sai","10")
 					)
 
