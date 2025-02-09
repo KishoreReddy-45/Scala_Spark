@@ -35,7 +35,7 @@ object obj {
 
 			upper.foreach(println)						
 			
-			val finalist = upper.map(  x =>  "Tech -> " +    x   + " Trainer -> Sai"  )
+			val finalist = upper.map(  x =>  "Tech -> " +    x   + " Trainer -> Kishore"  )
 			
 			println
 			println("====finalist list=====")
